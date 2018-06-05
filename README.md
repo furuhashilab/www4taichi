@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## これは古橋の個人サイトです！
 
 You can use the [editor on GitHub](https://github.com/furuhashilab/www4taichi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
